@@ -1,0 +1,13 @@
+[package]
+name = "username_registry"
+version = "1.0.0"
+authors = []
+published-at = "0x5de6a048dc4189c778fe19614491d9ff78d845fb59718cc03c48954b213722ca"
+
+[addresses]
+username_registry = "0x5de6a048dc4189c778fe19614491d9ff78d845fb59718cc03c48954b213722ca"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
